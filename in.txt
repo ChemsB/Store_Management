@@ -1,0 +1,63 @@
+1
+2 C02
+2 C90
+3 1
+3 2
+3 60
+3 aaa
+3 -10
+4 Tv C08 desc08 45 45 45
+4 Tv C02 desc02 450 30 30
+4 Tv C09 desc09 ppp 50 20
+4 Tv C09 desc09 -250 50 20
+4 Tv C10 desc10 100,8 23 50
+4 Tv C11 desc11 200 st 21
+4 Tv C11 desc11 200 8,8 21
+4 Tv C12 desc12 200 -18 21
+4 Tv C12 desc12 300 100 iii
+4 Tv C12 desc12 300 100 -18
+4 Tv C12 desc12 300 100 8.8
+1
+4 Fridge C14 desc14 100.10 100 100 true
+4 Fridge C02 desc02 200 20 20 true
+4 Fridge C15 desc15 ppp 100 100 true
+4 Fridge C15 desc15 -108 100 100 true
+4 Fridge C15 desc15 108.8 100 100 true
+4 Fridge C16 desc16 108 st 18 true
+4 Fridge C16 desc16 108 8,8 18 true
+4 Fridge C16 desc16 108 -18 18 true
+4 Fridge C17 desc17 108 18 ccc true
+4 Fridge C17 desc17 108 18 -18 true
+4 Fridge C17 desc17 108 18 8,8 true
+1
+5 C01 C19 newDesc19 300 3000 30 1
+5 C04 C04 newDesc04 333 3333 33 1
+5 C02 C22 Desc22 500 5000 50 false 1
+5 C22 C22 NewDesc22 555 5555 55 true 1
+5 C22 C22 NewDesc22 000 0000 00 false 2
+5 C19 C22 NewDesc22 222 2222 222
+5 C19 C60 NewDesc60 ppp 18 80
+5 C19 C60 NewDesc60 -18 18 80
+5 C19 C60 NewDesc60 18,8 18 80
+5 C04 C90 NewDesc90 100 st 50
+5 C04 C90 NewDesc90 100 8,8 50
+5 C04 C90 NewDesc90 100 -18 50
+5 C05 C60 NewDesc60 200 200 iii
+5 C05 C60 NewDesc60 200 200 -18
+5 C05 C60 NewDesc60 200 200 8,8
+1
+5 C40 C06 desc06 1 1 1 true
+5 C40 C40 desc40 ppp 1 1 true
+5 C40 C40 desc40 -108 1 1 true
+5 C40 C40 desc40 222 st 2 true
+5 C40 C40 desc40 4444 8,8 4 false
+5 C40 C40 desc40 999 -18 9 true
+5 C40 C40 desc40 258 123 ccc true
+5 C40 C40 desc40 258 111 -18 true
+5 C40 C40 desc40 258 222 8,8 true
+1
+6 C01 1
+6 C02 2
+6 C99
+1
+0

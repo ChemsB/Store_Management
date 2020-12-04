@@ -1,0 +1,1323 @@
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Tv{Product{ [Code=C01][Description=desc03][Price=12546.1][Stock=60] }[inches=50]}
+Fridge{Product{ [Code=C02][Description=desc04][Price=473.1][Stock=37] }[capacity=50][frost=YES]}
+Fridge{Product{ [Code=C03][Description=desc06][Price=444.1][Stock=1] }[capacity=70][frost=NO]}
+Tv{Product{ [Code=C04][Description=desc04][Price=789.1][Stock=60] }[inches=50]}
+Tv{Product{ [Code=C05][Description=desc05][Price=222.1][Stock=45] }[inches=70]}
+Fridge{Product{ [Code=C40][Description=desc40][Price=666.1][Stock=66] }[capacity=66][frost=YES]}
+Fridge{Product{ [Code=C41][Description=desc41][Price=777.0][Stock=7] }[capacity=77][frost=NO]}
+7 products found
+Processing action: list_all
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Input The Code: 
+Fridge{Product{ [Code=C02][Description=desc04][Price=473.1][Stock=37] }[capacity=50][frost=YES]}
+Processing action: list_product_by_code
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Input The Code: 
+Product not found
+Processing action: list_product_by_code
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter the thresold number to stock
+0 products found
+Processing action: list_with_stock
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter the thresold number to stock
+Fridge{Product{ [Code=C03][Description=desc06][Price=444.1][Stock=1] }[capacity=70][frost=NO]}
+1 products found
+Processing action: list_with_stock
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter the thresold number to stock
+Fridge{Product{ [Code=C02][Description=desc04][Price=473.1][Stock=37] }[capacity=50][frost=YES]}
+Fridge{Product{ [Code=C03][Description=desc06][Price=444.1][Stock=1] }[capacity=70][frost=NO]}
+Tv{Product{ [Code=C05][Description=desc05][Price=222.1][Stock=45] }[inches=70]}
+Fridge{Product{ [Code=C41][Description=desc41][Price=777.0][Stock=7] }[capacity=77][frost=NO]}
+4 products found
+Processing action: list_with_stock
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter the thresold number to stock
+Error, products Not found, NULL
+Processing action: list_with_stock
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter the thresold number to stock
+0 products found
+Processing action: list_with_stock
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Type of porduct: 
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Inches: 
+product successfully added
+Processing action: add_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Type of porduct: 
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Inches: 
+Product not added
+Processing action: add_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Type of porduct: 
+Introduce CODE
+Enter description
+Enter price
+Error Value
+Processing action: add_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Type of porduct: 
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Inches: 
+Values can't be negative
+Processing action: add_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Type of porduct: 
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Inches: 
+product successfully added
+Processing action: add_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Type of porduct: 
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Error Value
+Processing action: add_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Type of porduct: 
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Error Value
+Processing action: add_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Type of porduct: 
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Inches: 
+Values can't be negative
+Processing action: add_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Type of porduct: 
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Inches: 
+Error Value
+Processing action: add_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Type of porduct: 
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Inches: 
+Values can't be negative
+Processing action: add_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Type of porduct: 
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Inches: 
+Error Value
+Processing action: add_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Tv{Product{ [Code=C01][Description=desc03][Price=12546.1][Stock=60] }[inches=50]}
+Fridge{Product{ [Code=C02][Description=desc04][Price=473.1][Stock=37] }[capacity=50][frost=YES]}
+Fridge{Product{ [Code=C03][Description=desc06][Price=444.1][Stock=1] }[capacity=70][frost=NO]}
+Tv{Product{ [Code=C04][Description=desc04][Price=789.1][Stock=60] }[inches=50]}
+Tv{Product{ [Code=C05][Description=desc05][Price=222.1][Stock=45] }[inches=70]}
+Fridge{Product{ [Code=C40][Description=desc40][Price=666.1][Stock=66] }[capacity=66][frost=YES]}
+Fridge{Product{ [Code=C41][Description=desc41][Price=777.0][Stock=7] }[capacity=77][frost=NO]}
+Tv{Product{ [Code=C08][Description=desc08][Price=45.0][Stock=45] }[inches=45]}
+Tv{Product{ [Code=C10][Description=desc10][Price=100.8][Stock=23] }[inches=50]}
+9 products found
+Processing action: list_all
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Type of porduct: 
+Introduce CODE
+Enter description
+Enter price
+Error: 
+Processing action: add_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Type of porduct: 
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Enter capacity
+Enter Frost
+Product not added
+Processing action: add_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Type of porduct: 
+Introduce CODE
+Enter description
+Enter price
+Error: 
+Processing action: add_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Type of porduct: 
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Enter capacity
+Enter Frost
+Values can't be negative
+Processing action: add_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Type of porduct: 
+Introduce CODE
+Enter description
+Enter price
+Error: 
+Processing action: add_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Type of porduct: 
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Error: 
+Processing action: add_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Type of porduct: 
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Error: 
+Processing action: add_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Type of porduct: 
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Enter capacity
+Enter Frost
+Values can't be negative
+Processing action: add_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Type of porduct: 
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Enter capacity
+Error: 
+Processing action: add_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Type of porduct: 
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Enter capacity
+Enter Frost
+Values can't be negative
+Processing action: add_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Type of porduct: 
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Enter capacity
+Error: 
+Processing action: add_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Tv{Product{ [Code=C01][Description=desc03][Price=12546.1][Stock=60] }[inches=50]}
+Fridge{Product{ [Code=C02][Description=desc04][Price=473.1][Stock=37] }[capacity=50][frost=YES]}
+Fridge{Product{ [Code=C03][Description=desc06][Price=444.1][Stock=1] }[capacity=70][frost=NO]}
+Tv{Product{ [Code=C04][Description=desc04][Price=789.1][Stock=60] }[inches=50]}
+Tv{Product{ [Code=C05][Description=desc05][Price=222.1][Stock=45] }[inches=70]}
+Fridge{Product{ [Code=C40][Description=desc40][Price=666.1][Stock=66] }[capacity=66][frost=YES]}
+Fridge{Product{ [Code=C41][Description=desc41][Price=777.0][Stock=7] }[capacity=77][frost=NO]}
+Tv{Product{ [Code=C08][Description=desc08][Price=45.0][Stock=45] }[inches=45]}
+Tv{Product{ [Code=C10][Description=desc10][Price=100.8][Stock=23] }[inches=50]}
+9 products found
+Processing action: list_all
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter code: 
+Tv{Product{ [Code=C01][Description=desc03][Price=12546.1][Stock=60] }[inches=50]}
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Inches: 
+Tv{Product{ [Code=C19][Description=newDesc19][Price=300.0][Stock=3000] }[inches=30]}
+Are you sure? 1-Yes 2-No
+Product modified
+Processing action: modify_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter code: 
+Tv{Product{ [Code=C04][Description=desc04][Price=789.1][Stock=60] }[inches=50]}
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Inches: 
+Tv{Product{ [Code=C04][Description=newDesc04][Price=333.0][Stock=3333] }[inches=33]}
+Are you sure? 1-Yes 2-No
+Product modified
+Processing action: modify_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter code: 
+Fridge{Product{ [Code=C02][Description=desc04][Price=473.1][Stock=37] }[capacity=50][frost=YES]}
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Enter capacity
+Enter Frost
+Fridge{Product{ [Code=C22][Description=Desc22][Price=500.0][Stock=5000] }[capacity=50][frost=NO]}
+Are you sure? 1-Yes 2-No
+Product modified
+Processing action: modify_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter code: 
+Fridge{Product{ [Code=C22][Description=Desc22][Price=500.0][Stock=5000] }[capacity=50][frost=NO]}
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Enter capacity
+Enter Frost
+Fridge{Product{ [Code=C22][Description=NewDesc22][Price=555.0][Stock=5555] }[capacity=55][frost=YES]}
+Are you sure? 1-Yes 2-No
+Product modified
+Processing action: modify_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter code: 
+Fridge{Product{ [Code=C22][Description=NewDesc22][Price=555.0][Stock=5555] }[capacity=55][frost=YES]}
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Enter capacity
+Enter Frost
+Fridge{Product{ [Code=C22][Description=NewDesc22][Price=0.0][Stock=0] }[capacity=0][frost=NO]}
+Are you sure? 1-Yes 2-No
+Product not modified
+Processing action: modify_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter code: 
+Tv{Product{ [Code=C19][Description=newDesc19][Price=300.0][Stock=3000] }[inches=30]}
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Inches: 
+Tv{Product{ [Code=C22][Description=NewDesc22][Price=222.0][Stock=2222] }[inches=222]}
+Are you sure? 1-Yes 2-No
+Product not modified
+Processing action: modify_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter code: 
+Tv{Product{ [Code=C19][Description=newDesc19][Price=300.0][Stock=3000] }[inches=30]}
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Inches: 
+Values can't be negative
+Product not modified
+Processing action: modify_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter code: 
+Tv{Product{ [Code=C19][Description=newDesc19][Price=300.0][Stock=3000] }[inches=30]}
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Inches: 
+Tv{Product{ [Code=C60][Description=NewDesc60][Price=18.8][Stock=18] }[inches=80]}
+Are you sure? 1-Yes 2-No
+Product not modified
+Processing action: modify_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter code: 
+Tv{Product{ [Code=C04][Description=newDesc04][Price=333.0][Stock=3333] }[inches=33]}
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Error Value
+Product not modified
+Processing action: modify_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter code: 
+Tv{Product{ [Code=C04][Description=newDesc04][Price=333.0][Stock=3333] }[inches=33]}
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Inches: 
+Values can't be negative
+Product not modified
+Processing action: modify_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter code: 
+Tv{Product{ [Code=C05][Description=desc05][Price=222.1][Stock=45] }[inches=70]}
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Inches: 
+Error Value
+Product not modified
+Processing action: modify_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter code: 
+Tv{Product{ [Code=C05][Description=desc05][Price=222.1][Stock=45] }[inches=70]}
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Inches: 
+Values can't be negative
+Product not modified
+Processing action: modify_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter code: 
+Tv{Product{ [Code=C05][Description=desc05][Price=222.1][Stock=45] }[inches=70]}
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Inches: 
+Error Value
+Product not modified
+Processing action: modify_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Tv{Product{ [Code=C19][Description=newDesc19][Price=300.0][Stock=3000] }[inches=30]}
+Fridge{Product{ [Code=C22][Description=NewDesc22][Price=555.0][Stock=5555] }[capacity=55][frost=YES]}
+Fridge{Product{ [Code=C03][Description=desc06][Price=444.1][Stock=1] }[capacity=70][frost=NO]}
+Tv{Product{ [Code=C04][Description=newDesc04][Price=333.0][Stock=3333] }[inches=33]}
+Tv{Product{ [Code=C05][Description=desc05][Price=222.1][Stock=45] }[inches=70]}
+Fridge{Product{ [Code=C40][Description=desc40][Price=666.1][Stock=66] }[capacity=66][frost=YES]}
+Fridge{Product{ [Code=C41][Description=desc41][Price=777.0][Stock=7] }[capacity=77][frost=NO]}
+Tv{Product{ [Code=C08][Description=desc08][Price=45.0][Stock=45] }[inches=45]}
+Tv{Product{ [Code=C10][Description=desc10][Price=100.8][Stock=23] }[inches=50]}
+9 products found
+Processing action: list_all
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter code: 
+Fridge{Product{ [Code=C40][Description=desc40][Price=666.1][Stock=66] }[capacity=66][frost=YES]}
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Enter capacity
+Enter Frost
+Fridge{Product{ [Code=C06][Description=desc06][Price=1.0][Stock=1] }[capacity=1][frost=YES]}
+Are you sure? 1-Yes 2-No
+Product not modified
+Processing action: modify_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Tv{Product{ [Code=C19][Description=newDesc19][Price=300.0][Stock=3000] }[inches=30]}
+Fridge{Product{ [Code=C22][Description=NewDesc22][Price=555.0][Stock=5555] }[capacity=55][frost=YES]}
+Fridge{Product{ [Code=C03][Description=desc06][Price=444.1][Stock=1] }[capacity=70][frost=NO]}
+Tv{Product{ [Code=C04][Description=newDesc04][Price=333.0][Stock=3333] }[inches=33]}
+Tv{Product{ [Code=C05][Description=desc05][Price=222.1][Stock=45] }[inches=70]}
+Fridge{Product{ [Code=C40][Description=desc40][Price=666.1][Stock=66] }[capacity=66][frost=YES]}
+Fridge{Product{ [Code=C41][Description=desc41][Price=777.0][Stock=7] }[capacity=77][frost=NO]}
+Tv{Product{ [Code=C08][Description=desc08][Price=45.0][Stock=45] }[inches=45]}
+Tv{Product{ [Code=C10][Description=desc10][Price=100.8][Stock=23] }[inches=50]}
+9 products found
+Processing action: list_all
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Tv{Product{ [Code=C19][Description=newDesc19][Price=300.0][Stock=3000] }[inches=30]}
+Fridge{Product{ [Code=C22][Description=NewDesc22][Price=555.0][Stock=5555] }[capacity=55][frost=YES]}
+Fridge{Product{ [Code=C03][Description=desc06][Price=444.1][Stock=1] }[capacity=70][frost=NO]}
+Tv{Product{ [Code=C04][Description=newDesc04][Price=333.0][Stock=3333] }[inches=33]}
+Tv{Product{ [Code=C05][Description=desc05][Price=222.1][Stock=45] }[inches=70]}
+Fridge{Product{ [Code=C40][Description=desc40][Price=666.1][Stock=66] }[capacity=66][frost=YES]}
+Fridge{Product{ [Code=C41][Description=desc41][Price=777.0][Stock=7] }[capacity=77][frost=NO]}
+Tv{Product{ [Code=C08][Description=desc08][Price=45.0][Stock=45] }[inches=45]}
+Tv{Product{ [Code=C10][Description=desc10][Price=100.8][Stock=23] }[inches=50]}
+9 products found
+Processing action: list_all
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter code: 
+Fridge{Product{ [Code=C40][Description=desc40][Price=666.1][Stock=66] }[capacity=66][frost=YES]}
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Enter capacity
+Enter Frost
+Values can't be negative
+Product not modified
+Processing action: modify_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter code: 
+Fridge{Product{ [Code=C40][Description=desc40][Price=666.1][Stock=66] }[capacity=66][frost=YES]}
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Error: 
+Product not modified
+Processing action: modify_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Input The Code: 
+Product not found
+Processing action: list_product_by_code
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter code: 
+Fridge{Product{ [Code=C40][Description=desc40][Price=666.1][Stock=66] }[capacity=66][frost=YES]}
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Error: 
+Product not modified
+Processing action: modify_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Type of porduct: 
+Processing action: add_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter code: 
+Fridge{Product{ [Code=C40][Description=desc40][Price=666.1][Stock=66] }[capacity=66][frost=YES]}
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Enter capacity
+Enter Frost
+Values can't be negative
+Product not modified
+Processing action: modify_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter code: 
+Fridge{Product{ [Code=C40][Description=desc40][Price=666.1][Stock=66] }[capacity=66][frost=YES]}
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Enter capacity
+Error: 
+Product not modified
+Processing action: modify_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter code: 
+Fridge{Product{ [Code=C40][Description=desc40][Price=666.1][Stock=66] }[capacity=66][frost=YES]}
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Enter capacity
+Enter Frost
+Values can't be negative
+Product not modified
+Processing action: modify_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Enter code: 
+Fridge{Product{ [Code=C40][Description=desc40][Price=666.1][Stock=66] }[capacity=66][frost=YES]}
+Introduce CODE
+Enter description
+Enter price
+Enter stock
+Enter capacity
+Error: 
+Product not modified
+Processing action: modify_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Tv{Product{ [Code=C19][Description=newDesc19][Price=300.0][Stock=3000] }[inches=30]}
+Fridge{Product{ [Code=C22][Description=NewDesc22][Price=555.0][Stock=5555] }[capacity=55][frost=YES]}
+Fridge{Product{ [Code=C03][Description=desc06][Price=444.1][Stock=1] }[capacity=70][frost=NO]}
+Tv{Product{ [Code=C04][Description=newDesc04][Price=333.0][Stock=3333] }[inches=33]}
+Tv{Product{ [Code=C05][Description=desc05][Price=222.1][Stock=45] }[inches=70]}
+Fridge{Product{ [Code=C40][Description=desc40][Price=666.1][Stock=66] }[capacity=66][frost=YES]}
+Fridge{Product{ [Code=C41][Description=desc41][Price=777.0][Stock=7] }[capacity=77][frost=NO]}
+Tv{Product{ [Code=C08][Description=desc08][Price=45.0][Stock=45] }[inches=45]}
+Tv{Product{ [Code=C10][Description=desc10][Price=100.8][Stock=23] }[inches=50]}
+9 products found
+Processing action: list_all
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Input The Code: 
+Product not found
+Product not Removed
+Processing action: remove_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Tv{Product{ [Code=C19][Description=newDesc19][Price=300.0][Stock=3000] }[inches=30]}
+Fridge{Product{ [Code=C22][Description=NewDesc22][Price=555.0][Stock=5555] }[capacity=55][frost=YES]}
+Fridge{Product{ [Code=C03][Description=desc06][Price=444.1][Stock=1] }[capacity=70][frost=NO]}
+Tv{Product{ [Code=C04][Description=newDesc04][Price=333.0][Stock=3333] }[inches=33]}
+Tv{Product{ [Code=C05][Description=desc05][Price=222.1][Stock=45] }[inches=70]}
+Fridge{Product{ [Code=C40][Description=desc40][Price=666.1][Stock=66] }[capacity=66][frost=YES]}
+Fridge{Product{ [Code=C41][Description=desc41][Price=777.0][Stock=7] }[capacity=77][frost=NO]}
+Tv{Product{ [Code=C08][Description=desc08][Price=45.0][Stock=45] }[inches=45]}
+Tv{Product{ [Code=C10][Description=desc10][Price=100.8][Stock=23] }[inches=50]}
+9 products found
+Processing action: list_all
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Input The Code: 
+Product not found
+Product not Removed
+Processing action: remove_product
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Input The Code: 
+Product not found
+Processing action: list_product_by_code
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: ============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Tv{Product{ [Code=C19][Description=newDesc19][Price=300.0][Stock=3000] }[inches=30]}
+Fridge{Product{ [Code=C22][Description=NewDesc22][Price=555.0][Stock=5555] }[capacity=55][frost=YES]}
+Fridge{Product{ [Code=C03][Description=desc06][Price=444.1][Stock=1] }[capacity=70][frost=NO]}
+Tv{Product{ [Code=C04][Description=newDesc04][Price=333.0][Stock=3333] }[inches=33]}
+Tv{Product{ [Code=C05][Description=desc05][Price=222.1][Stock=45] }[inches=70]}
+Fridge{Product{ [Code=C40][Description=desc40][Price=666.1][Stock=66] }[capacity=66][frost=YES]}
+Fridge{Product{ [Code=C41][Description=desc41][Price=777.0][Stock=7] }[capacity=77][frost=NO]}
+Tv{Product{ [Code=C08][Description=desc08][Price=45.0][Stock=45] }[inches=45]}
+Tv{Product{ [Code=C10][Description=desc10][Price=100.8][Stock=23] }[inches=50]}
+9 products found
+Processing action: list_all
+============Store main menu============
+[0] Exit
+[1] List all Products
+[2] List product by code 
+[3] List products with low stock
+[4] Add new product
+[5] Modify a product
+[6] Remove a product
+Select an option: Goodbye!
+Processing action: exit
